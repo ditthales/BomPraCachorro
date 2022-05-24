@@ -12,7 +12,7 @@ class CustomTabBarController: UITabBarController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        self.selectedIndex = 1
+        //self.selectedIndex = 1
     }
 
 }

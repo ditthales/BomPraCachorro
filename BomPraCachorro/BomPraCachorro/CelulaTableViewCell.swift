@@ -8,9 +8,6 @@
 import UIKit
 
 class CelulaTableViewCell: UITableViewCell {
-
-    @IBOutlet var label: UILabel!
-    @IBOutlet var info: UILabel!
     
     override func awakeFromNib() {
         super.awakeFromNib()
